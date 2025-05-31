@@ -1,0 +1,30 @@
+Available Pieces:
+Available Lego Pieces:
+- lego (Black), Qty: 9, Dim: 2x2x3p
+- lego (Brown), Qty: 7, Dim: 2x2x3p
+- lego (Chrome Antique Brass), Qty: 2, Dim: 2x2x3p
+- lego (Chrome Black), Qty: 6, Dim: 2x2x3p
+- lego (Dark Bluish Gray), Qty: 1, Dim: 2x2x3p
+- lego (Dark Brown), Qty: 4, Dim: 2x2x3p
+- lego (Dark Flesh), Qty: 3, Dim: 2x2x3p
+- lego (Dark Gray), Qty: 2, Dim: 2x2x3p
+- lego (Dark Green), Qty: 2, Dim: 2x2x3p
+- lego (Dark Tan), Qty: 1, Dim: 2x2x3p
+- lego (Flat Silver), Qty: 4, Dim: 2x2x3p
+- lego (Glow In Dark Trans), Qty: 1, Dim: 2x2x3p
+- lego (Modulex Black), Qty: 2, Dim: 2x2x3p
+- lego (Modulex Brown), Qty: 1, Dim: 2x2x3p
+- lego (Modulex Light Gray), Qty: 1, Dim: 2x2x3p
+- lego (Modulex Terracotta), Qty: 4, Dim: 2x2x3p
+- lego (Modulex Tile Blue), Qty: 1, Dim: 2x2x3p
+- lego (Modulex Tile Gray), Qty: 1, Dim: 2x2x3p
+- lego (Pearl Dark Gray), Qty: 2, Dim: 2x2x3p
+- lego (Pearl Gold), Qty: 2, Dim: 2x2x3p
+- lego (Pearl Light Gold), Qty: 1, Dim: 2x2x3p
+- lego (Pearl Very Light Gray), Qty: 2, Dim: 2x2x3p
+- lego (Reddish Brown), Qty: 2, Dim: 2x2x3p
+- lego (Trans-Black IR Lens), Qty: 1, Dim: 2x2x3p
+
+
+--- Model Output (Details) ---
+Full model output is treated as suggestions. Update prompts in config.json if specific formatting is needed.

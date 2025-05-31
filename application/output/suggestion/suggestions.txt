@@ -1,0 +1,53 @@
+*Simple Tree**
+    Description: A small, basic tree with a few branches.
+    Pieces:
+    - Lego (Dark Brown), 3
+    - Lego (Dark Gray), 2
+    - Lego (Dark Gray), 1
+    Justification:  This structure uses a simple arrangement of dark brown and gray blocks to create a tree shape.
+
+2.  **Geometric Cube**
+    Description: A cube with a slightly irregular shape.
+    Pieces:
+    - Lego (Dark Gray), 4
+    - Lego (Dark Gray), 2
+    - Lego (Dark Gray), 1
+    Justification:  The cube's shape is easily created with the available gray bricks.
+
+3.  **Honeycomb**
+    Description: A honeycomb-like structure with a central core and radiating cells.
+    Pieces:
+    - Lego (Dark Brown), 4
+    - Lego (Dark Brown), 2
+    - Lego (Dark Brown), 1
+    Justification:  The honeycomb shape is achievable with the brown bricks and a combination of blocks.
+
+4.  **Dark Rectangle**
+    Description: A simple rectangular shape with a slightly angled top.
+    Pieces:
+    - Lego (Dark Gray), 4
+    - Lego (Dark Gray), 2
+    - Lego (Dark Gray), 1
+    Justification:  Creates a basic rectangle using the gray bricks.
+
+5.  **Modular Building**
+    Description: A series of connected, slightly overlapping modules.
+    Pieces:
+    - Lego (Dark Gray), 4
+    - Lego (Dark Gray), 2
+    - Lego (Dark Gray), 1
+    Justification:  The gray blocks create a modular arrangement.
+
+6.  **Terracotta Tile Wall**
+    Description: A wall constructed with terracotta tiles.
+    Pieces:
+    - Lego (Dark Gray), 2
+    - Lego (Dark Gray), 1
+    - Lego (Dark Gray), 1
+    Justification:  Uses a combination of gray and dark gray bricks to create a wall.
+
+7.  **Glow Wall**
+    Description: A wall with a subtle glow effect.
+    Pieces:
+    - Lego (Dark Green), 2
+    - Lego (Dark Green),
