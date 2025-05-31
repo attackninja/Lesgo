@@ -5,6 +5,10 @@ Lesgo(Le-smart-go) project is a smart-lego-building program based on AI-powered 
 -
 Lesgo 项目是一基于AI识别现成的乐高或积木数据分析，将个性化乐高设计生成器、乐高或积木智能评估系统为辅助性嵌入功能的智能乐高程序。乐智高将作为基础应用在未来近期集成到星盘（智能机器人系统）
 
+Version Beta 1.0.0
+-
+版本
+-
 
 Part 1: Image Capturing (upload or photo by camera) 
 
