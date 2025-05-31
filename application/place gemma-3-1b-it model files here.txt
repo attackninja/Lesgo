@@ -1,0 +1,3 @@
+.locks folder
+models--google--gemma-3-1b-it folder
+token
