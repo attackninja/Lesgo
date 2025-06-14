@@ -9,6 +9,8 @@ Lesgo 项目是一基于AI识别现成的乐高或积木数据分析，将个性
 
 ![Lesgo Image](https://raw.githubusercontent.com/attackninja/Lesgo/main/Lesgo.jpg)
 
+Design
+-
 Part 1: Image Capturing (upload or photo by camera) 
 
 Part 2: Recognizing lego objects through image frame (currently using Yolov7 model but we're trainning another model for this project, this model will be replaced in the future), then restores data in output\data, including lego details.
